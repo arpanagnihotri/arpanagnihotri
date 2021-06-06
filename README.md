@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hii<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Namaste :pray<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Arpan Agnihotri :blush:<br>
   <br> MERN Developer  :computer:<br>
   <br>
@@ -24,5 +24,5 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
-- :dart: Life Hack:"One should strive to achieve the state where one's thoughts 💭, speech:speech , and the actions:actions coincide."<br>
+- :dart: Life Hack:"One should strive to achieve the state where one's thoughts, speech, and the actions coincide."<br>
 <h2 align="left">:heart: Let's get connected:</h2>
