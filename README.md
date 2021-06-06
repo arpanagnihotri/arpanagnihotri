@@ -24,6 +24,5 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on MERN Stack
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition<br>
+- :dart: Life Hack:"One should strive to achieve the state where one's thoughts 💭, speech:speech , and the actions:actions coincide."<br>
 <h2 align="left">:heart: Let's get connected:</h2>
