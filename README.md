@@ -2,7 +2,7 @@
  <abc>
   <br>Hii <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Arpan Agnihotri :blush:<br>
-  <br> MERN Developer  :computer:<br>
+  <br> Software Engineer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -23,6 +23,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
+- :computer: I'm currently working on Java Full Stack and Microservices
 - :dart: Life Hack:"One should strive to achieve the state where one's thoughts, speech, and the actions coincide."<br>
 <h2 align="left">:heart: Let's get connected:</h2>
