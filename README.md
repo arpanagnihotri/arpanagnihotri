@@ -1,12 +1,9 @@
-<h2 align="left">
- <abc>
-  <br>Hii <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Arpan Agnihotri :blush:<br>
-  <br> Software Engineer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+Hello! I'm Arpan Agnihotri, a Java Developer specializing in backend development. I have experience working with a variety of technologies and tools to build robust and scalable applications.
+
+- 💼 Currently working as a Backend Developer with expertise in Java.
+- 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     
@@ -23,13 +20,6 @@
 
 
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-## About Me
-
-Hello! I'm Arpan Agnihotri, a Java Developer specializing in backend development. I have experience working with a variety of technologies and tools to build robust and scalable applications.
-
-- 💼 Currently working as a Backend Developer with expertise in Java.
-- 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
-- 
+  
 <h2 align="left">:heart: Let's get connected:</h2>
