@@ -20,6 +20,8 @@
 <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/> </a>
 <a href="https://www.apachefriends.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="XAMPP" width="40" height="40"/> </a>
+<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>
+
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
