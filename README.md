@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Backend Development](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg)
+![Backend Development](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?size=626&ext=jpg)
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
