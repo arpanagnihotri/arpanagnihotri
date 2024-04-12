@@ -19,10 +19,8 @@
 <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/> </a>
 <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/> </a>
-<a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_sourcetree/atlassian_sourcetree-icon.svg" alt="Sourcetree" width="40" height="40"/> </a>
-<a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" height="40"/> </a>
 <a href="https://www.apachefriends.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="XAMPP" width="40" height="40"/> </a>
-<a href="https://swagger.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swagger_io/swagger_io-icon.svg" alt="Swagger" width="40" height="40"/> </a>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 - :computer: Currently working as Java Backend Developer.
 - :dart: Life Hack:"One should strive to achieve the state where one's thoughts, speech, and the actions coincide."<br>
