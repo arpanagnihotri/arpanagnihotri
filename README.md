@@ -1,3 +1,7 @@
+# Welcome to My GitHub Profile! 👋
+
+![Backend Development](https://example.com/your-image.jpg)
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 Hello! I'm Arpan Agnihotri, a Java Developer specializing in backend development. I have experience working with a variety of technologies and tools to build robust and scalable applications.
