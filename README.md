@@ -22,6 +22,7 @@
 <a href="https://www.apachefriends.org/index.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="XAMPP" width="40" height="40"/> </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+
 - :computer: Currently working as Java Backend Developer.
 - :dart: Life Hack:"One should strive to achieve the state where one's thoughts, speech, and the actions coincide."<br>
 <h2 align="left">:heart: Let's get connected:</h2>
