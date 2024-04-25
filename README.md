@@ -4,7 +4,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-Hello! I'm Arpan Agnihotri, a Java Developer specializing in backend development. I have experience working with a variety of technologies and tools to build robust and scalable applications.
+Hello! I'm Arpan Agnihotri, a Java Developer specializing in backend development.
 
 - 💼 Currently working as a Backend Developer with expertise in Java.
 - 🌱 I’m continuously learning and exploring new technologies to enhance my skills.
