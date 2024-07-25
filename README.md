@@ -1,7 +1,5 @@
 
-# Welcome to My GitHub Profile! 👋
-
-![Backend Development](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+# Welcome to My GitHub Profile! 
 
 <h1 align="center">Hi 👋, I'm Arpan Agnihotri</h1>
 <h3 align="center">A passionate backend developer from India</h3>
