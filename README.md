@@ -1,4 +1,6 @@
 # Hey🙋‍♂️, I am Arpan
+![QubyChanGIF](https://github.com/user-attachments/assets/fc533586-4323-49d3-823b-78ff45d5e561)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farpanagnihotri%2Farpanagnihotri&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
