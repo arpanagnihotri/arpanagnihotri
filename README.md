@@ -9,9 +9,9 @@
 [![Github](https://img.shields.io/github/followers/arpanagnihotri?label=Follow&style=social)](https://github.com/arpanagnihotri)
 
 A backend developer👨‍💻 working since 2022 🚀
-🔭 I’m currently working on Reconciliation Engine for payment gateway.
-❓ Ask me about anything related to Java stack and related technologies
-⚡ Fun fact: Every commit and merge is a step towards success.
+- 🔭 I’m currently working on Reconciliation Engine for payment gateway.
+- ❓ Ask me about anything related to Java stack and related technologies
+- ⚡ Fun fact: Every commit and merge is a step towards success.
 
 
 ### 🖥 Skills
@@ -28,6 +28,3 @@ A backend developer👨‍💻 working since 2022 🚀
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpanagnihotri&" alt="arpanagnihotri" />
 </div>
 
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
