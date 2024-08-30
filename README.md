@@ -1,4 +1,3 @@
-# Hey🙋‍♂️, I am Arpan
 ![QubyChanGIF](https://github.com/user-attachments/assets/fc533586-4323-49d3-823b-78ff45d5e561)
 
 
