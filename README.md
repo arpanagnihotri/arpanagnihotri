@@ -1,31 +1,23 @@
-![QubyChanGIF](https://github.com/user-attachments/assets/fc533586-4323-49d3-823b-78ff45d5e561)
+<h1 align="center">Hi 👋, I'm Arpan Agnihotri</h1>
+<h3 align="center">A passionate backend developer in India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="arpanagnihotri" /> </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farpanagnihotri%2Farpanagnihotri&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanagnihotri" alt="arpanagnihotri" /></a> </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-agnihotri/)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arpanagnihotri22@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://agnihotri.netlify.app/)](https://agnihotri.netlify.app/)
-[![Github](https://img.shields.io/github/followers/arpanagnihotri?label=Follow&style=social)](https://github.com/arpanagnihotri)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arpan-agnihotri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan-agnihotri" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/agniarpan_2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="agniarpan_2209" height="30" width="40" /></a>
+</p>
 
-A backend developer👨‍💻 working since 2022 🚀
-- 🔭 I’m currently working on Reconciliation Engine for payment gateway.
-- ❓ Ask me about anything related to Java stack and related technologies
-- ⚡ Fun fact: Every commit and merge is a step towards success.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanagnihotri&show_icons=true&locale=en&layout=compact" alt="arpanagnihotri" /></p>
 
-### 🖥 Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpanagnihotri&show_icons=true&locale=en" alt="arpanagnihotri" /></p>
 
-- Java
-- Spring Boot
-- Microservices
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spring-05122A?style=flat-square&logo=Spring&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat-square&logo=Spring-Boot&color=353535) ![Bootstrap](https://img.shields.io/badge/-Spring%20Data%20JPA-05122A?style=flat-square&logo=Spring-Data-JPA&color=353535) ![Bootstrap](https://img.shields.io/badge/-Microservices-05122A?style=flat-square&logo=Microservices&color=353535) ![Bootstrap](https://img.shields.io/badge/-My%20SQL-05122A?style=flat-square&logo=My-SQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Angular-05122A?style=flat-square&logo=Angular&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git%20-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Apache%20Tomcat-05122A?style=flat-square&logo=Apache-Tomcat&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sonarqube-05122A?style=flat-square&logo=Sonarqube&color=353535) ![Bootstrap](https://img.shields.io/badge/-Swagger-05122A?style=flat-square&logo=Swagger&color=353535) ![Bootstrap](https://img.shields.io/badge/-Junit%20-05122A?style=flat-square&logo=Junit&color=353535) ![Bootstrap](https://img.shields.io/badge/-Mockito-05122A?style=flat-square&logo=Mockito&color=353535) ![Bootstrap](https://img.shields.io/badge/-Hibernate-05122A?style=flat-square&logo=Hibernate&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanagnihotri&show_icons=true&locale=en&layout=compact" alt="arpanagnihotri" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=arpanagnihotri&" alt="arpanagnihotri" />
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanagnihotri&" alt="arpanagnihotri" /></p>
