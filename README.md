@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanagnihotri" alt="arpanagnihotri" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://agnihotri.netlify.app/](https://agnihotri.netlify.app/)
-
 - 💬 Ask me about **Backend Development, Data Analytics**
 
 - 📫 How to reach me **arpanagnihotri22@gmail.com**
